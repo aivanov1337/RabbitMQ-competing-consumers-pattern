@@ -1,0 +1,4 @@
+C:\Users\atana\source\repos\Rabbitmq_competing_consumers\bin\Debug\netcoreapp3.1\Rabbitmq_competing_consumers.exe
+C:\Users\atana\source\repos\Rabbitmq_competing_consumers\obj\Debug\netcoreapp3.1\Rabbitmq_competing_consumers.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\Rabbitmq_competing_consumers\obj\Debug\netcoreapp3.1\Rabbitmq_competing_consumers.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\Rabbitmq_competing_consumers\obj\Debug\netcoreapp3.1\Rabbitmq_competing_consumers.AssemblyInfo.cs
